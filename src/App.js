@@ -22,7 +22,7 @@ function App() {
     <div className="App">
         <div className='title'>
             <div className='title_semi_bold'>Leaflet map selected operations</div>
-            <div>CLick anywhere on a map to center a map on it position and zoom it</div>
+            <div>CLick anywhere on a map to center a map on it position and zoom on it</div>
             <div>Click on the icon to see name of attraction</div>
         </div>
         <MapContainer center={mapInitialCoordinates} zoom={13} scrollWheelZoom={true}>
