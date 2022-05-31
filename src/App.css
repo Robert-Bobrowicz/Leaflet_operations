@@ -7,6 +7,15 @@
 }
 
 .leaflet-container {
-  width: 700px;
-  height: 580px;
+  width: 800px;
+  height: 450px;
+}
+
+.title {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.title_semi_bold {
+  font-weight: 600;
 }

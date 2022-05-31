@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Pałac Kultury i Nauki 30 piętro",
+            "marker-color": "#fa0000",
+            "marker-size": "medium",
+            "marker-symbol": "circle"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                21.005945205688477,
+                52.231702816483164
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Teatr Narodowy",
+            "marker-color": "#fa0000",
+            "marker-size": "medium"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                21.010177731513977,
+                52.24380839436817
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Zamek Królewski",
+            "marker-color": "#fa0000",
+            "marker-size": "medium"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                21.014726758003235,
+                52.24772352176331
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Stadion Narodowy",
+            "marker-color": "#fa0000",
+            "marker-size": "medium"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                21.0457706451416,
+                52.23944288277111
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Pałac na Wodzie Łazienki Królewskie",
+            "marker-color": "#fa0000",
+            "marker-size": "medium"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                21.035771369934082,
+                52.21541667501589
+            ]
+        }
+    }
+]
+}
