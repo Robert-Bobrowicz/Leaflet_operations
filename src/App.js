@@ -14,7 +14,7 @@ function App() {
             />
             <Marker position={mapInitialCoordinates}>
                 <Popup>
-                    <h4>Marker text</h4> <br /> Easily customizable.
+                    <h4>You are here</h4> <br /> Close to center of Warsaw.
                 </Popup>
             </Marker>
         </MapContainer>
